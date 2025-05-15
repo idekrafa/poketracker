@@ -10,9 +10,6 @@ A SwiftUI app for iOS that allows users to track and view information about Pok�
 - Statistics view for Pokémon data
 - Pokedex view for browsing Pokémon
 
-## Screenshots
-
-(Add screenshots here)
 
 ## Installation
 
